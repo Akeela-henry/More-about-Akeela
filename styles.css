@@ -1,0 +1,16 @@
+body{
+    background: url("https://i.pinimg.com/736x/d8/f9/d4/d8f9d409585270395c2c17c2d63a2252.jpg");
+}
+stong{ 
+    color:red;
+}
+img{
+    height:300px;
+    border:1px solid pink;
+}
+p{
+    font-family: 'Dancing Script', cursive;
+}
+ol{
+    font-family: 'Dancing Script', cursive;
+}
